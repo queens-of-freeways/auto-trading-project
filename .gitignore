@@ -1,0 +1,27 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+.venv/
+
+# Distribution / packaging
+build/
+*.egg-info/
+
+# IDE / editor
+.idea/
+.vscode/
+
+# Secrets
+.env
+
+# Data files (large CSVs)
+universe.csv
+universe_data.csv
+
+yarn.lock
+npm-debug.log
