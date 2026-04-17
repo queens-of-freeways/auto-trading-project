@@ -25,9 +25,3 @@ python run_backtest.py
 # Optimise the strategy
 python auto_optimize.py
 ```
-
-## Private repository
-This repo is **private** – only collaborators you invite on GitHub can view it. The `.env` file containing Alpaca credentials is excluded via `.gitignore`.
-
-## License
-MIT (feel free to fork and adapt).
